@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "Tokyonight",
+  "theme": {
+    "colors": {
+      "toolbar": [26, 27, 38],
+      "toolbar_text": [169, 177, 214],
+      "tab_text": [169, 177, 214],
+      "background_tab": [26, 27, 38],
+      "background_tab_inactive": [26, 27, 38],
+      "frame": [26, 27, 38],
+      "frame_inactive": [26, 27, 38],
+      "frame_incognito": [26, 27, 38],
+      "toolbar_text": [169, 177, 214],
+      "toolbar_button_icon": [169, 177, 214],
+      "bookmark_text": [169, 177, 214]
+    }
+  }
+}
